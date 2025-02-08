@@ -1,0 +1,3 @@
+echo "local/.terraform/" >> .gitignore
+echo "local/terraform.tfstate" >> .gitignore
+echo "local/terraform.tfstate.backup" >> .gitignore
